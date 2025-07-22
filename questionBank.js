@@ -1,5 +1,4 @@
 
-  <script>
     // Pool of unique 30 questions (replace with 200 later)
     const allQuestions = [
       {
@@ -2305,5 +2304,4 @@
 
       // Add more questions here up to 200
     ];
-  </script>
 
