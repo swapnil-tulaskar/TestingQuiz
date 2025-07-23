@@ -503,7 +503,108 @@
     question: "Testing of individual components by the developers comes under which type of testing?",
     options: ["Integration testing", "Validation testing", "Unit testing", "None of the above"],
     correct: 3
+  },
+  {
+    question: "What is the main purpose of a Requirement Traceability Matrix (RTM)?",
+    options: ["To record test results", "To trace defects", "To map requirements to test cases", "To manage team roles", "To automate test cases"],
+    correct: 2
+  },
+  {
+    question: "Which type of testing ensures that new code changes do not break existing functionality?",
+    options: ["Smoke Testing", "Sanity Testing", "Regression Testing", "Exploratory Testing", "Alpha Testing"],
+    correct: 2
+  },
+  {
+    question: "What is the key difference between severity and priority in defect management?",
+    options: ["Severity is about business need, priority is about impact", "Severity is technical impact, priority is business urgency", "Both are same", "Priority is set by tester", "Severity is always low"],
+    correct: 1
+  },
+  {
+    question: "In which phase of the STLC is the test plan created?",
+    options: ["Test Execution", "Test Design", "Test Closure", "Test Planning", "Requirement Analysis"],
+    correct: 3
+  },
+  {
+    question: "What is exploratory testing?",
+    options: ["Automated testing technique", "Testing based on pre-written scripts", "Simultaneous learning, test design, and execution", "Only UI testing", "Only backend testing"],
+    correct: 2
+  },
+  {
+    question: "Which document is used to determine when to stop testing?",
+    options: ["Test Plan", "Test Case", "Defect Report", "Traceability Matrix", "Test Summary Report"],
+    correct: 0
+  },
+  {
+    question: "Why is boundary value analysis useful in manual testing?",
+    options: ["To skip validations", "To test edge conditions", "To automate logic", "To generate test scripts", "To ignore defects"],
+    correct: 1
+  },
+  {
+    question: "What is smoke testing?",
+    options: ["Testing each function thoroughly", "Basic testing to check system stability", "Database testing", "Security testing", "Performance testing"],
+    correct: 1
+  },
+  {
+    question: "When is a defect considered as 'Deferred'?",
+    options: ["When it's rejected", "When it's fixed", "When it's postponed to future release", "When it's reopened", "When it is retested"],
+    correct: 2
+  },
+  {
+    question: "What is the goal of a test closure activity?",
+    options: ["Open new defects", "Update test scripts", "Summarize and archive testing deliverables", "Automate all cases", "Release product"],
+    correct: 2
+  },
+  {
+    question: "Which testing technique is most suitable when requirements are not clear?",
+    options: ["Unit Testing", "Smoke Testing", "Exploratory Testing", "Automation Testing", "Sanity Testing"],
+    correct: 2
+  },
+  {
+    question: "What does 'Test Coverage' refer to?",
+    options: ["Number of users", "Lines of code tested", "Extent to which testing covers requirements", "Test automation rate", "Execution speed"],
+    correct: 2
+  },
+  {
+    question: "Which type of testing focuses on user-friendliness and interface?",
+    options: ["Integration Testing", "System Testing", "Usability Testing", "Load Testing", "Security Testing"],
+    correct: 2
+  },
+  {
+    question: "Why is negative testing important?",
+    options: ["To test normal flows", "To increase code size", "To verify system handles invalid inputs gracefully", "To avoid automation", "To add features"],
+    correct: 2
+  },
+  {
+    question: "What is the best practice for maintaining test cases?",
+    options: ["Never change them", "Write once and forget", "Update regularly with requirement changes", "Only use for automation", "Delete old test cases"],
+    correct: 2
+  },
+  {
+    question: "Which type of testing is conducted without planning and documentation?",
+    options: ["Sanity Testing", "Exploratory Testing", "Regression Testing", "System Testing", "Smoke Testing"],
+    correct: 1
+  },
+  {
+    question: "What is the key advantage of using a defect tracking tool?",
+    options: ["More meetings", "Faster coding", "Effective defect lifecycle management", "Harder communication", "Less visibility"],
+    correct: 2
+  },
+  {
+    question: "What should a tester do if a requirement is unclear?",
+    options: ["Guess the logic", "Start writing test cases", "Skip it", "Ask BA or stakeholders for clarification", "Write code"],
+    correct: 3
+  },
+  {
+    question: "What is the role of test data in manual testing?",
+    options: ["It's not needed", "Used to simulate real inputs for testing", "Only for automation", "For writing code", "Used to train testers"],
+    correct: 1
+  },
+  {
+    question: "How is retesting different from regression testing?",
+    options: ["Retesting is for checking fixed defects, regression is for checking impact on other areas", "Both are same", "Regression is not required", "Retesting is faster", "Retesting is always automated"],
+    correct: 0
   }
+
 
 
       // Add more questions here up to 200
