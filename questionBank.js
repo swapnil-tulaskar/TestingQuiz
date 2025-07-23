@@ -227,20 +227,7 @@
       "It automates only high-level scenarios"
     ],
     correct: 2
-  },
-
-  // Remaining 30 questions can follow similar format (omitted here for brevity)
-  ...Array.from({ length: 30 }, (_, i) => ({
-    question: `Advanced manual testing scenario question ${i + 21}?`,
-    options: [
-      `Option A${i + 21}`,
-      `Option B${i + 21}`,
-      `Option C${i + 21}`,
-      `Option D${i + 21}`,
-      `Option E${i + 21}`
-    ],
-    correct: 2
-  }))
+  }
 
 
       // Add more questions here up to 200
