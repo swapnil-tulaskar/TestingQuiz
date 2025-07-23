@@ -1,5 +1,5 @@
 
-    // Pool of unique 30 questions (replace with 200 later)
+
     const allQuestions = [
       {
         question: "What is manual testing?",
@@ -116,8 +116,6 @@
     ],
     correct: 2
   },
-
- 
   {
     question: "What is the benefit of reviewing requirements before test case design?",
     options: [
@@ -228,7 +226,6 @@
     ],
     correct: 2
   },
-[
   {
     question: "How does risk-based testing help?",
     options: [
